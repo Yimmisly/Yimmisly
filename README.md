@@ -425,36 +425,6 @@ I now apply those principles to software development.
 * 📚 Continuous learning
 
 ---
-# 📈 My Development Roadmap
-
-```text
-                 SOFTWARE DEVELOPMENT
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       BACKEND        FRONTEND        MOBILE
-          │              │              │
-   Java / Spring      Angular        Kotlin
-   C# / .NET          TypeScript     Android
-   Python             HTML/CSS
-          │              │
-          └──────────────┼──────────────┘
-                         │
-                    DATABASES
-                         │
-                    SQL / MySQL
-                         │
-                    DEVELOPMENT
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-        Git           Testing        Scrum / BDD
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                    🚀 PROJECTS
-
----
 
 # 📫 Contact
 
