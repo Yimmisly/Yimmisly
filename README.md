@@ -425,24 +425,34 @@ I now apply those principles to software development.
 * 📚 Continuous learning
 
 ---
+# 📈 My Development Roadmap
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+```text
+                 SOFTWARE DEVELOPMENT
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       BACKEND        FRONTEND        MOBILE
+          │              │              │
+   Java / Spring      Angular        Kotlin
+   C# / .NET          TypeScript     Android
+   Python             HTML/CSS
+          │              │
+          └──────────────┼──────────────┘
+                         │
+                    DATABASES
+                         │
+                    SQL / MySQL
+                         │
+                    DEVELOPMENT
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+        Git           Testing        Scrum / BDD
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                    🚀 PROJECTS
 
 ---
 
